@@ -1,0 +1,17 @@
+print ("Ernesto Gutiérrez Valdés")
+print ("A00817392")
+print ("This program going to ask to the user for 10 numbers (floatin variables) and then going to store those numbers in a list.")
+print ("After that, going to show to the user the total, average and standard deviation of those numbers. ")
+num1 = float(input("Please, enter the first number."))
+num2 = float(input("Please, enter the second number."))
+num3 = float(input("Please, enter the third number."))
+num4 = float(input("Please, enter the fourth number."))
+num5 = float(input("Please, enter the fifth number."))
+num6 = float(input("Please, enter the sixth number."))
+num7 = float(input("Please, enter the seventh number."))
+num8 = float(input("Please, enter the eighth number."))
+num9 = float(input("Please, enter the ninth number."))
+num10 = float(input("Please, enter the tenth number."))
+li = [ 'num1', 'num2', 'num3', 'num4', 'num5', 'num6', 'num7', 'num8', 'num9', 'num10' ]
+total = li [1 + : 10]
+print ("The total of your numbers is:", total)
